@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_image_stack/flutter_image_stack.dart';
 import 'package:image_cropper/image_cropper.dart';
 import 'package:image_picker/image_picker.dart' as imp;
-import 'package:photo_gallery_app/post_Controller.dart';
+import 'package:photo_gallery_app/controllers/post_Controller.dart';
 import 'package:photo_view/photo_view.dart';
 import 'package:progress_loader_overlay/progress_loader_overlay.dart';
 

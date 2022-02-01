@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:photo_gallery_app/homeView.dart';
+import 'package:photo_gallery_app/views/homeView.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
